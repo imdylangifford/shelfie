@@ -26,3 +26,50 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.form {
+  width: 20%;
+  height: 50vh;
+  background: #3ad886;
+  float: right;
+  border-radius: 15px;
+  position: absolute;
+  left: 850px;
+  bottom: 200px;
+}
+
+.img {
+  margin: 0 auto;
+  width: 80%;
+  height: 120px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.input {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: -14px;
+}
+
+.Header {
+  height: 10vh;
+  background: #ab2a19;
+}
+
+.productImage {
+  margin-top: 10px;
+  height: 120px;
+  width: 240px;
+}
+
+.product {
+  margin-left: 100px;
+  margin-top: 40px;
+  width: 40%;
+  background: slateblue;
+  border-radius: 5px;
+}
+
+
+
